@@ -1,0 +1,3 @@
+[submodule "themes/up-business-theme"]
+	path = themes/up-business-theme
+	url = https://github.com/BPL-com/up-business-theme.git
